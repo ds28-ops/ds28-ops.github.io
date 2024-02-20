@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "http://ds28-ops.github.io"
+title = "Dhruv Sridhar"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,11 +12,11 @@ enableEmoji = true
 noClasses = false
 
 [params]
-author = "John Doe"
+author = "Dhruv Sridhar"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
-keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+description = "Dhruv's personal website"
+keywords = "engineer, data scientist"
+info = ["Aspiring Data Scientist"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
