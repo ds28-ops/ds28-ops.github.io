@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Dhruv Sridhar"
 +++
 
-
+I am an aspiring data scientist, who wants to contribute positively to the world of Machine Learning. 
 
 ## Tools and Technologies
 
